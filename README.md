@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @darksknndknight, @the4rthwall, Brightdotdev .... Bright
-- 🌱 I’m currently on my path to being a full stack developer and a certified SWE ... 
-- 💞️ I’m looking to collaborate on ... open source projects, in javascript, node js and web development
+# 👋 Hi there, I'm Bright 
 
-<!---
-darksknndknight/darksknndknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👤 **Username**:`@Brightdotdev` | `@darksknndknight` | `@the4rthwall` 
+- 🚀 **Aspiring Full Stack Developer & Certified Software Engineer-in-Training**
+- 🎨 From **Graphic Design** to **UI/UX** and **Web Development**
+- 🌱 **Currently Exploring**: React, Data Science, JavaFX, and advanced JavaScript techniques 
+- 🤝 **Open to Collaborations**: Open-source projects in **JavaScript**, **Node.js**, **Frontend & Backend Development** 
+
+---
+
+### 🔥 What Drives Me
+Curiosity fuels my journey—from color theory and accessibility in web design to building AI-driven predictive models. I’m always excited to learn and implement new tools, especially if they enhance user experience, boost performance, or solve real-world problems.
+
+---
+
+### 💡 Interested in...
+I'm all about working with like-minded devs on impactful projects. If you’re building something awesome in **JavaScript**, **Node.js**, or **data science**, let's connect! 
+
+---
